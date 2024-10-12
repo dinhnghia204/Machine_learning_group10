@@ -42,7 +42,8 @@ Chương trình cung cấp các dự đoán chính xác về nhu cầu hàng t�
 
 
 ## ĐỀ 3. Dự báo nhu cầu hàng tồn kho bằng cách sử dụng máy học
-# TÀI LIỆU THAM KHẢO
-https://www.geeksforgeeks.org/inventory-demand-forecasting-using-machine-learning-python/ 
-https://www.kaggle.com/datasets/subho117/inventory-demand-forecasting-using-ml 
-https://media.geeksforgeeks.org/wp-content/uploads/20240909120859/Inventory_Demand_Forecasting_using_Machine_Learning_Python.ipynb
+
+## TÀI LIỆU THAM KHẢO
+- https://www.geeksforgeeks.org/inventory-demand-forecasting-using-machine-learning-python/ 
+- https://www.kaggle.com/datasets/subho117/inventory-demand-forecasting-using-ml 
+- https://media.geeksforgeeks.org/wp-content/uploads/20240909120859/Inventory_Demand_Forecasting_using_Machine_Learning_Python.ipynb
